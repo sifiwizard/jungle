@@ -37,4 +37,7 @@ class Admin::ProductsController < ApplicationController
     )
   end
 
+  http_basic_authenticate_with name: ENV['login'] , password: ENV['password']
+
+
 end

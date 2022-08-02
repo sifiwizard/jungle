@@ -4,4 +4,6 @@ class Admin::DashboardController < ApplicationController
     @num_categories = Category.count
   end
 
+  http_basic_authenticate_with name: ENV['login'] , password: ENV['password']
+
 end
