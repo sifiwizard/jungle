@@ -3,11 +3,11 @@
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example. It allows users to login in and out. Has admin specific privlages and tests databases and card checkout. Can uodate produtes and catagories from browser.
 
 ## Pictures
-[]
-[]
-[]
-[]
-[]
+![Homepage](https://github.com/sifiwizard/jungle/blob/master/Docs/Hompage.png)
+![Compressed Hompage](https://github.com/sifiwizard/jungle/blob/master/Docs/Compressed%20Hompage.png)
+![Products](https://github.com/sifiwizard/jungle/blob/master/Docs/Products.png)
+![Product](https://github.com/sifiwizard/jungle/blob/master/Docs/Product.png)
+![Cart](https://github.com/sifiwizard/jungle/blob/master/Docs/Cart.png)
 
 ## Setup
 
